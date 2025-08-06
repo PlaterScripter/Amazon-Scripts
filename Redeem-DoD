@@ -3,8 +3,8 @@ local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Window = Rayfield:CreateWindow({
     Name = "Red Hub (Die of death)",
     Icon = 0,
-    LoadingTitle = "Red Hub",
-    LoadingSubtitle = "by DexScripts",
+    LoadingTitle = "Die Of Death",
+    LoadingSubtitle = "by PlaterScripter",
     Theme = "Default",
  
     DisableRayfieldPrompts = false,
